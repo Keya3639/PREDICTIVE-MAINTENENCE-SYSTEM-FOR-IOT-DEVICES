@@ -111,3 +111,8 @@ By combining predictive analytics with an intuitive web interface, the system en
 With future enhancements, this project can evolve into a production-ready Industry 4.0 solution.
 
 ## Output
+<img width="1707" height="847" alt="Image" src="https://github.com/user-attachments/assets/fd476713-d6f8-43d8-9413-691f10592007" />
+
+<img width="563" height="580" alt="Image" src="https://github.com/user-attachments/assets/a256b5ac-2d8c-4be8-acc5-2c609ce3d276" />
+
+<img width="548" height="582" alt="Image" src="https://github.com/user-attachments/assets/256dcc89-afd9-4f14-8cb4-acc09051688e" />
